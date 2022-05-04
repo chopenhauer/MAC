@@ -1,0 +1,134 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "JoseLuis",
+      "surnames": "Vilar",
+      "title": "coFounder at Caravelo",
+      "avatar": {
+        "alt": "jlv_round.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/04/de3a87ba-0143-4d68-be1d-2b0d5c44706d_jlv_round.png"
+      },
+      "location": {
+        "notes": "Barcelona"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/chopenhauer/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/chopenhauer"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/joseluis-vilar/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Caravelo",
+          "image": {
+            "alt": "caravelo-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/04/e4f7b056-5fe5-43a0-b484-0bbf80170d57_caravelo-logo.png"
+          },
+          "URL": "https://www.caravelo.com"
+        },
+        "roles": [
+          {
+            "name": "coFounder & CPTO",
+            "startDate": "2015-03-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ChangeYourFlight",
+          "image": {
+            "alt": "1630315945988.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/04/f13bbdaa-4338-407e-a01a-7f12742cdd30_1630315945988.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "coFounder & CIO",
+            "startDate": "2010-02-01",
+            "finishDate": "2015-02-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Loop",
+          "image": {
+            "alt": "loop_lgt_vertical.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/04/27cc20ad-aadb-4257-b8ae-5d399093bfea_loop_lgt_vertical.png"
+          },
+          "URL": "https://www.loop-cn.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Innovation Consultant",
+            "startDate": "2007-02-01",
+            "finishDate": "2010-01-01",
+            "challenges": [
+              {
+                "description": "* Senior Consultant of strategic innovation projects, focusing on the identification of new opportunities around new products, services and business models.\n* Trainer and coach of applied innovation programs and workshops in large companies.\n* Business developer and project manager for the Dubai office, Middle East region (8 months)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Close chapter and pivot"
+        },
+        "type": "achievement",
+        "publishingDate": "2015-03-01",
+        "tags": [
+          "lessons learned"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "French"
+      },
+      {
+        "name": "Italian"
+      },
+      {
+        "name": "Spanish"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/joseluis-vilar/"
+        }
+      ]
+    }
+  }
+}
