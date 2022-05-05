@@ -31,6 +31,16 @@
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/joseluis-vilar/"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My longest trips",
+        "fact": "* Barcelona -> Istambul -> Doha -> Dubai -> SriLanka (FlyPegasus + Flydubai)"
+      },
+      {
+        "topic": "My Favourite Food",
+        "fact": "Mexican"
+      }
     ]
   },
   "experience": {
