@@ -146,6 +146,23 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Industrial Engineer",
+        "startDate": "1999-09-01",
+        "finishDate": "2004-06-01",
+        "institution": {
+          "name": "ETSEIB (UPC)",
+          "URL": "https://etseib.upc.edu",
+          "image": {
+            "alt": "logoPropi.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/c22cf9c4-af0d-48db-981c-c70e2b82a3f4_logopropi.png"
+          }
+        }
+      }
     ]
   },
   "careerPreferences": {
