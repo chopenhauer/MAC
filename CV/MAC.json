@@ -88,6 +88,28 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Renault",
+          "image": {
+            "alt": "Renault-logo-2015-slogan-1024x768.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/27c5b4d6-80f4-448d-83fd-06c894c0667e_renault-logo-2015-sl.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Mechanical Engineer & Designer + Project Manager",
+            "startDate": "2004-09-01",
+            "finishDate": "2007-02-01",
+            "competences": [
+              {
+                "name": "Catia",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
