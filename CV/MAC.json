@@ -119,6 +119,32 @@
       {
         "name": "Spanish"
       }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zapier",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Apps Script",
+          "type": "technology"
+        }
+      }
     ]
   },
   "careerPreferences": {
