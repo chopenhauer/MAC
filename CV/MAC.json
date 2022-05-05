@@ -165,6 +165,26 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Grado Superior en Diseño",
+        "startDate": "2002-09-01",
+        "finishDate": "2004-06-01",
+        "institution": {
+          "name": "UPC (Online)",
+          "image": {
+            "alt": "upc.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/2fb895b1-9f26-4d94-946d-0d711adae0df_upc.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Adobe Creative Suite",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Industrial Engineer",
         "startDate": "1999-09-01",
         "finishDate": "2004-06-01",
