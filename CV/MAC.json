@@ -132,6 +132,18 @@
         "tags": [
           "lessons learned"
         ]
+      },
+      {
+        "details": {
+          "name": "Move to live abroad",
+          "description": "Pack my bags and moved to live in Paris",
+          "image": {
+            "alt": "paris.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/d6bb6b62-9b49-4910-a674-8aa502876da6_paris.jpg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2004-09-01"
       }
     ]
   },
